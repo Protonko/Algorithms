@@ -1,6 +1,6 @@
 # Two Pointers
 
-The Two Pointers algorithm works:
+The **Two Pointers** algorithm works:
 1. Initialize two pointers, usually named "left" and "right", at the beginning and end of the array or string.
 2. While the left pointer is less than the right pointer, do the following:
    - a. Move the left pointer to the right, until you find an element that meets a certain condition.
@@ -11,7 +11,7 @@ The Two Pointers algorithm works:
 The key to the Two Pointers algorithm is that it avoids unnecessary iterations and comparisons by moving both pointers simultaneously.
 This results in a faster and more efficient algorithm, especially when dealing with large arrays or strings.
 
-The time complexity of the Two Pointers algorithm depends on the problem being solved, but in general it is O(n),
+The **time complexity of the Two Pointers algorithm depends on the problem being solved, but in general it is O(n)**,
 where n is the length of the input array or string. This is because the algorithm involves iterating over the entire array
 or string only once, and each iteration involves moving the left or right pointer by at most one position.
 
