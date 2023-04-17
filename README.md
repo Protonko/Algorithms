@@ -12,3 +12,4 @@
 | [Backtracking](https://github.com/Protonko/Algorithms/blob/master/algorithms/backtracking.md)  | [784](https://leetcode.com/problems/letter-case-permutation/), [46](https://leetcode.com/problems/permutations/)  |
 | [Matrix](#)  |  |
 | [Dynamic programming](#)  |  |
+| [Sliding window](https://github.com/Protonko/Algorithms/blob/master/algorithms/sliding-window.md)  | [53](https://leetcode.com/problems/maximum-subarray/) |
