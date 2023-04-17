@@ -11,3 +11,4 @@
 | [Boyer Moore Voting](https://github.com/Protonko/Algorithms/blob/master/algorithms/boyer-moore-voting.md)  | [169](https://leetcode.com/problems/majority-element/)  |
 | [Backtracking](https://github.com/Protonko/Algorithms/blob/master/algorithms/backtracking.md)  | [784](https://leetcode.com/problems/letter-case-permutation/), [46](https://leetcode.com/problems/permutations/)  |
 | [Matrix](#)  |  |
+| [Dynamic programming](#)  |  |
