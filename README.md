@@ -4,7 +4,7 @@
 | [Bit manipulation](#)  |  |
 | [Binary search](#)  |  |
 | [In-place reversal of a linked list](#)  |  |
-| [Two pointers](https://github.com/Protonko/Algorithms/blob/master/algorithms/two-pointers.md)  | [977](https://leetcode.com/problems/squares-of-a-sorted-array/)  |
+| [Two pointers](https://github.com/Protonko/Algorithms/blob/master/algorithms/two-pointers.md)  | [977](https://leetcode.com/problems/squares-of-a-sorted-array/), [148](https://leetcode.com/problems/sort-list/)  |
 | [Fast-Slow Pointers](https://github.com/Protonko/Algorithms/blob/master/algorithms/fast-slow-pointers.md)  | [142](https://leetcode.com/problems/linked-list-cycle-ii/description/)  |
 | [BFS](#)  |  |
 | [DFS](https://github.com/Protonko/Algorithms/blob/master/algorithms/dfs.md)  | [543](https://leetcode.com/problems/diameter-of-binary-tree/)  |
