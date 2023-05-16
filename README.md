@@ -12,4 +12,4 @@
 | [Backtracking](https://github.com/Protonko/Algorithms/blob/master/algorithms/backtracking.md)  | [784](https://leetcode.com/problems/letter-case-permutation/), [46](https://leetcode.com/problems/permutations/)  |
 | [Matrix](#)  |  |
 | [Dynamic programming](https://github.com/Protonko/Algorithms/blob/master/algorithms/dynamic-programming.md)  | [213](https://leetcode.com/problems/house-robber-ii/), [322](https://leetcode.com/problems/coin-change/)  |
-| [Sliding window](https://github.com/Protonko/Algorithms/blob/master/algorithms/sliding-window.md)  | [53](https://leetcode.com/problems/maximum-subarray/) |
+| [Sliding window](https://github.com/Protonko/Algorithms/blob/master/algorithms/sliding-window.md)  | [53](https://leetcode.com/problems/maximum-subarray/), [904](https://leetcode.com/problems/fruit-into-baskets/) |
